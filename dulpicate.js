@@ -1,6 +1,6 @@
 const a1 =[1,3,4,5,56];
 const copyofArray1 =a1.slice();
-const  array = [5,6,7,8];
+const  array = [5,6,7,8,9,99];
 
 console.log(a1);
 console.log(copyofArray1);
